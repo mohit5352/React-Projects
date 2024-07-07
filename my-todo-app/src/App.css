@@ -1,0 +1,49 @@
+/* .app-container {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-container, .list-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: fit-content;
+}
+
+.input-container {
+  background-color: #f0f0f0;
+
+  input, select{
+    margin-right: 15px;
+  }
+}
+
+.list-container {
+  background-color: #f9f9f9;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid grey;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  color: blue;
+}
+
+.completed td {
+  text-decoration: line-through;
+  color: red;
+}
+ */

@@ -1,0 +1,31 @@
+.snackbar-container {
+    position: fixed;
+    top: 2px;
+    display: block;
+    padding: 3px;
+    background-color: #ec675e;
+    /* Red background color */
+    
+    /* White text color */
+    text-align: center;
+    /* z-index: 1000; */
+    /* Ensure the Snackbar is above other elements */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Add shadow for depth */
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.snackbar-container span {
+    margin-right: 10px;
+    color: white;
+}
+
+.snackbar-container button {
+    margin-bottom: 4px;
+    background-color: transparent;
+    color: black;
+    border: 0.2px solid grey;
+    cursor: pointer;
+    border-radius: 4px;
+}
